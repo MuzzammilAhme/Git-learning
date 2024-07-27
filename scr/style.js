@@ -1,2 +1,2 @@
 console.log('style.js')
-console.log('Version 1.2')
+console.log('Version 2.2')
